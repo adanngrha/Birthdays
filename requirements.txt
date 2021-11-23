@@ -1,2 +1,2 @@
-cs50 library
-Flask framework
+cs50
+Flask
